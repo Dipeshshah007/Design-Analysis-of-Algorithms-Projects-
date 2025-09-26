@@ -46,6 +46,5 @@ b. Plots a graph comparing experimental and theoretical results.
 5. 📄 Files Included
 
 Solution 1.py → Python code for running experiments.
-Report.pdf file → Full project report (Problem Statement, Analysis, Graph, Observations, Conclusion).
 README.md → Instructions to set up and run the project.
 
